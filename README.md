@@ -49,3 +49,8 @@ This data allows for an in-depth exploration of viewership trends based on vario
 
 ## Conclusion
 This analysis demonstrates Netflix's strategic approach to content release and viewership optimization. By focusing on high-impact titles, strategic timing, and diverse offerings, Netflix maintains its competitive edge in the streaming industry.
+
+---
+**Author**: Abhilash Antony  
+**GitHub**: [abhilash-antony](https://github.com/abhilash-antony)  
+**Date**: October 2024
